@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Page"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-About me
-======
 Hello! I am a Postdoctoral Research Fellow at the [Chair of Comparative Politics and German Government at University of Wuerzburg](https://www.politikwissenschaft.uni-wuerzburg.de/en/divisions/vergleichende/). *Theoretically*, my research interest lies primarily in the aspect of democracy research. I investigate how the quality of democracy can be measured, which factors lead to democratization, how statehood and democracy are related to each other, and how social and economic inequalities turn into political inequalities. In addition, I am interested in the impact that different aspects of political culture have on democracy. 
 
 My *methodological* focus is on quantitative methods. In this regard, my research focuses on the use of time-series cross-sectional analyses and the application of Bayesian statistics. However, I also have experience with other statistical methods (multilevel analysis, path analysis, multilevel structural equation modeling). In addition, I increasingly use unsupervised learning methods in my research. 
