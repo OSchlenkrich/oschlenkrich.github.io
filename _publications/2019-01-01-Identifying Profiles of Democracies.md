@@ -13,5 +13,7 @@ This study examines types of democracies that result from trade-offs within the 
 
 [Download paper here](dx.doi.org/10.17645/pag.v7i4.2244)
 
+[Replication Data](https://github.com/OSchlenkrich/Replicate_DemocracyProfiles_2019)
+
 Recommended citation: Oliver Schlenkrich. 2019. Identifying Profiles of Democracies: A Cluster Analysis Based on the Democracy
 Matrix Dataset from 1900 to 2017. *Politics and Governance* 7 (4): 315–330.
