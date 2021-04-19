@@ -13,12 +13,12 @@ author_profile: true
 
 Peer
 ====
-{% for post in site.publications.peer reversed %}
+{% for post in site.publications.pubpeer reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 other
 ====
-{% for post in site.publications.other reversed %}
+{% for post in site.publications.pubother reversed %}
   {% include archive-single.html %}
 {% endfor %}
