@@ -12,6 +12,11 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.categories.pubpeer reversed %}
+{% for post in site.categories.pubpeer.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+{% for post in site.categories.pubother.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
