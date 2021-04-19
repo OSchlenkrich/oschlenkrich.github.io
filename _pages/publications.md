@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+Peer
+====
+{% for post in site.publications.peer reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+other
+====
+{% for post in site.publications.other reversed %}
   {% include archive-single.html %}
 {% endfor %}
