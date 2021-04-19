@@ -289,7 +289,7 @@ category_archive:
   path: /categories/
 category_pubpeer:
   type: liquid
-  path: /pubpeer/
+  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
