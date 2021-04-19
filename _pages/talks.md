@@ -1,10 +1,8 @@
 ---
 permalink: /talks/
-title: "Markdown"
+title: "Talks and Presentations"
 author_profile: true
 ---
-
-## Talks and Presentations
 
 What Explains Specific Deformations in Democracies? The Multiple Causes of Illiberal, Inegalitarian and Uncontrolled
 Democracies. Presentation with Lukas Lemm and Hans-Joachim Lauth at the 26th World Congress of Political Science,
