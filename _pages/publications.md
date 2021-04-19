@@ -23,7 +23,7 @@ author_profile: true
 
 
 {% for post in site.publications reversed %}
-      {% if a.path contains 'Review' %}
+      {% if post.path contains 'Determinanten' %}
         {% include archive-single.html %}
       {% endif %}
 {% endfor %}
