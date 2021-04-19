@@ -11,14 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Peer
-====
-{% for post in site.categories.pubpeer reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
-other
-====
-{% for post in site.categories.pubother reversed %}
+{% for post in site.categories.pubpeer reversed %}
   {% include archive-single.html %}
 {% endfor %}
