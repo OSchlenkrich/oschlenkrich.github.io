@@ -22,10 +22,5 @@ author_profile: true
 {% endfor %}
 
 
-{% for post in site.publications reversed %}
-      {% if post.path contains 'Determinanten' %}
-        {% include archive-single.html %}
-      {% endif %}
-{% endfor %}
 
 
