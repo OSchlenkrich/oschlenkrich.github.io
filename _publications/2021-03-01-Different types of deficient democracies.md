@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2021-03-01-Different types of deficient democracies Reassessing the relevance of diminished subtypes
 excerpt: ''
 date: 2021-03-01
-venue: 'International Political Science Review. Online First'
+venue: 'peer-reviewed'
 paperurl: 'dx.doi.org/10.1177/0192512121995686'
 citation: 'Lauth, Hans-Joachim, Schlenkrich, Oliver und Lukas Lemm. 2021. Different types of deficient democracies: Reassessing the relevance of diminished subtypes. International Political Science Review. Online First.'
 ---
