@@ -18,9 +18,9 @@ author_profile: true
 
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.path contains 'Making' %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
-
-
 
 

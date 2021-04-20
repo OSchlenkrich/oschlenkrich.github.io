@@ -1,5 +1,5 @@
 ---
-title: "Mohamad-Klotzbach, Christoph und Oliver Schlenkrich. 2016. Determinanten input- und outputorientierter Demokratievorstellungen in der arabischen Welt: Eine Mehrebenenanalyse. In "Demokratie" jenseits des Westens. Theorien, Diskurse, Einstellungen. Sonderheft 51 der Politischen Vierteljahresschrift, Hrsg. Sophia Schubert und Alexander Weiss, 404-436. Baden-Baden: Nomos."
+title: "Mohamad-Klotzbach, Christoph und Oliver Schlenkrich. 2016. Determinanten input- und outputorientierter Demokratievorstellungen in der arabischen Welt: Eine Mehrebenenanalyse. In \"Demokratie\" jenseits des Westens. Theorien, Diskurse, Einstellungen. Sonderheft 51 der Politischen Vierteljahresschrift, Hrsg. Sophia Schubert und Alexander Weiss, 404-436. Baden-Baden: Nomos."
 collection: publications
 permalink: /publication/2016-01-01-Determinanten input- und outputorientierter Demokratievorstellungen in der arabischen Welt
 excerpt: ' '
