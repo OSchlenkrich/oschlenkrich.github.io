@@ -18,7 +18,7 @@ author_profile: true
 
 
 {% for post in site.publications reversed %}
-  {% if post.path contains 'Making' %}
+  {% if post.venue contains 'peer-reviewed' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
