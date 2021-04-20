@@ -12,15 +12,15 @@ author_profile: true
 {% include base_path %}
 
 
-Peer-Reviewed Article
+Peer-Reviewed Articles
 {% for post in site.publications reversed %}
   {% if post.venue contains 'peer-reviewed' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-Other Articles
 
+Other Articles
 {% for post in site.publications reversed %}
   {% if post.venue contains 'other' %}
     {% include archive-single.html %}
