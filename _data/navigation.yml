@@ -19,8 +19,9 @@ main:
     url: /files/CV/CV_public.pdf
     
   - title: "Guide"
-    children:
-      - title: "Quick-Start Guide"
-        url: /year-archive/
-      - title: "Quick-Start Guide2"
-        url: /talks/ 
+    url: /year-archive/
+    subcategories:
+    - subtitle: "Letters of Recommendation"
+      subhref: "/year-archive/letters-of-recommendation/"
+    - subtitle: "Pi Sigma Alpha"
+      subhref: "/year-archive/pi-sigma-alpha/"
