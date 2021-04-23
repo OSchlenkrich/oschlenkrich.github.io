@@ -21,6 +21,6 @@ main:
   - title: "Guide"
     children:
       - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+        url: /year-archive/
       - title: "Quick-Start Guide2"
-        url: /docs/quick-start-guide2/
+        url: /talks/ 
