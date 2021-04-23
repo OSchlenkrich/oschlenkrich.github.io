@@ -1,6 +1,5 @@
 ---
 title: "Formel des Umfragemodells"
-permalink: /polls/
 author_profile: true
 ---
 
