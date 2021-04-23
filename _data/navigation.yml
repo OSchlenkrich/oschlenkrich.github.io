@@ -18,10 +18,6 @@ main:
   - title: "CV"
     url: /files/CV/CV_public.pdf
     
-  - title: "Guide"
-    url: /year-archive/
-    subcategories:
-    - subtitle: "Letters of Recommendation"
-      subhref: "/year-archive/letters-of-recommendation/"
-    - subtitle: "Pi Sigma Alpha"
-      subhref: "/year-archive/pi-sigma-alpha/"
+  # - title: "Guide"
+  #  url: /year-archive/
+
