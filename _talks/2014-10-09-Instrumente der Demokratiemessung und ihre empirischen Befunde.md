@@ -3,7 +3,7 @@ title: "Instrumente der Demokratiemessung und ihre empirischen Befunde: Wie viel
 collection: talks
 type: "Talk"
 permalink: /talks/Instrumente der Demokratiemessung und ihre empirischen Befunde
-venue: "Ferienakademie V2014/15 "‘Alle Staatsgewalt geht vom Volke aus‘. Zur Zukunft der Demokratie" des Cusanuswerks"
+venue: "Ferienakademie V2014\/15 \"‘Alle Staatsgewalt geht vom Volke aus‘. Zur Zukunft der Demokratie\" des Cusanuswerks"
 date: 2014-10-09
 location: "Lingen, Ems"
 ---
