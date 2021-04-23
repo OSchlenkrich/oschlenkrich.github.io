@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Oliver Schlenkrich / Political Scientist"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Oliver Schlenkrich"
 description              : &description "personal description"
 url                      : https://oschlenkrich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
