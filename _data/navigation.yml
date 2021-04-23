@@ -18,5 +18,6 @@ main:
   - title: "CV"
     url: /files/CV/CV_public.pdf
     
-#  - title: "Guide"
-#    url: /markdown/
+  # - title: "Guide"
+  #  url: /year-archive/
+
