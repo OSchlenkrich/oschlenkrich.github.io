@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/2014-02-01-Herausforderungen und Institutionen des Staates
 venue: "GIGA, DVPW"
 date: 2015-02-25
-location: "Hamburg"
+location: "Hamburg, Germany"
 ---
