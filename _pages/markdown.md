@@ -1,226 +1,79 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
-C: categories T: Time I: Institute
 
-State Equation: $\theta_{c,t} \sim Normal(\theta_{c,t-1}, \epsilon_{c,t}); \ \ \theta_{c,0} \sim Normal(0,1); \ \ \epsilon_{c,t} \sim Normal(0,\sigma_{c}^\epsilon); \ c > 1$
+Einführung in die computergestützte Datenanalyse mit R (Introduction into R), 
+Course, TU Kaiserslautern, Summer Term 2021
 
-Linear Predictor: $\lambda_{i,c,t} \sim \theta_{c,t}; \ c > 1$
+Comparing Democracies with R (and python), 
+Course, University of Wuerzburg, Summer Term 2021
 
-Link Function: $\mu_{i,c,t} = \frac{exp(\lambda_{i,c,t})}{\sum_{a=1}^C exp(\lambda_{i,a,t})}; \ c > 1 \\ \mu_{i,1,t} = \frac{1}{\sum_{a=1}^C exp(\lambda_{i,a,t})}$
+Political Participation, 
+Course, University of Wuerzburg, Winter Term 2020/2021
 
-Measurement Equation I: $y_{i,c,t}^* \sim Dirichlet(\mu_{i,c,t}, \phi_{i}); \ \ \phi_i \sim Gamma(0.1, 0.1)$
+Comparing Democracies with R (and python), 
+Course, University of Wuerzburg, Summer Term 2020
 
-Measurement Equation II: $y_{i,c,t} \sim Normal(y_{i,c,t}^*, \tau_{i,c,t})$
+Political Participation, 
+Course, University of Wuerzburg, Winter Term 2019/2020
 
-## Random Intercept
 
-State Equation: $\theta_{c,t} \sim Normal(\theta_{c,t-1}, \epsilon_{c,t}); \ \ \theta_{c,0} \sim Normal(0,1); \ \ \epsilon_{c,t} \sim Normal(0,\sigma_{c}^\epsilon); \ c > 1$
 
-Linear Predictor: $\lambda_{i,c,t} \sim \theta_{c,t}; \ c > 1$
+Political Participation, 
+Course, University of Wuerzburg, Winter Term 2018/2019
 
-Link Function: $\mu_{i,c,t} = \frac{exp(\lambda_{i,c,t})}{\sum_{a=1}^C exp(\lambda_{i,a,t})}; \ c > 1 \\ \mu_{i,1,t} = \frac{1}{\sum_{a=1}^C exp(\lambda_{i,a,t})}$
 
-Measurement Equation I: $y_{i,c,t}^* \sim Dirichlet(\mu_{i,c,t}, \phi_{i}); \ \ \phi_i \sim e^{(\psi, \tau)}; \ \ \psi \sim Normal(0,100); \ \  \tau \sim Cauchy(0,5)$
+Political Participation, 
+Course, University of Wuerzburg, Winter Term 2017/2018
 
-Measurement Equation II: $y_{i,c,t} \sim Normal(y_{i,c,t}^*, \tau_{i,c,t})$
 
-## Locations of key files/directories
+Political Participation, 
+Course, University of Wuerzburg, Winter Term 2016/2017
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
+Demokratiemessung (Measuring Democracy), 
+Course, University of Wuerzburg, Winter Term 2015/2016
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+Political Participation, 
+Course, University of Wuerzburg, Winter Term 2015/2016
 
-## Markdown guide
 
-### Header three
+2014
+----
+Aktuelle Fragen der Politikwissenschaft, 
+Course, University of Wuerzburg, Winter Term 2014/2015
 
-#### Header four
 
-##### Header five
+Demokratiemessung (Measuring Democracy), 
+Course, University of Wuerzburg, Winter Term 2014/2015
 
-###### Header six
 
-## Blockquotes
+Politische Partizipation (Political Participation), 
+Course, University of Wuerzburg, Winter Term 2014/2015
 
-Single line blockquote:
 
-> Quotes are cool.
+Wahlen Elections)
+Course, University of Wuerzburg, Summer Term 2014
 
-## Tables
 
-### Table 1
+Aktuelle Fragen der Politikwissenschaft, 
+Course, University of Wuerzburg, Summer Term 2014
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
-### Table 2
+Das politische System der Bundesrepublik auch im Vergleich mit ausgewählten parlamentarischen Systemen,
+Course, University of Wuerzburg, Summer Term 2014
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
 
-## Definition Lists
+2013
+----
+Demokratiemessung (Measuring Democracy),
+Course, University of Wuerzburg, Winter Term 2013/2014
 
-Definition List Title
-:   Definition list division.
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+Gewaltenteilung (Checks and Balances),
+Course, University of Wuerzburg, Winter Term 2013/2014
