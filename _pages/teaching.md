@@ -7,17 +7,17 @@ author_profile: true
 
 2021
 ----
-Einführung in die computergestützte Datenanalyse mit R (Introduction into R), 
+*Einführung in die computergestützte Datenanalyse mit R (Introduction into R)*, 
 Course, TU Kaiserslautern, Summer Term 2021
 
 
-Comparing Democracies with R (and python), 
+*Comparing Democracies with R (and python)*, 
 Course, University of Wuerzburg, Summer Term 2021
 
 
 2020
 ----
-Political Participation, 
+*Political Participation*, 
 Course, University of Wuerzburg, Winter Term 2020/2021
 
 
