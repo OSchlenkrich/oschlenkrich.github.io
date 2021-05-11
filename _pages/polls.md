@@ -14,7 +14,7 @@ Dieses Modell versucht den besten Wert zu eruieren, der sich für eine Partei er
 
 3\. *Jede Umfragen ist an sich mit einem Messfehler behaftet*: Der Messfehler ist geringer, je größer die Stichprobe.
 
-[Eine detailliertere Erklärung findet sich hier.](%7B%%20link%20_pages/polls/polls_formula.md%20%%7D)
+[Eine detailliertere Erklärung findet sich hier.]({% link _pages/polls/polls_formula.md %})
 
 
 Für die Bundestagswahl ergeben sich folgende Umfragewerte für die einzelnen Parteien:
