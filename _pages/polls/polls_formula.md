@@ -8,7 +8,7 @@ Das Umfragemodell basiert auf einem sogenannten *state space model*. Dieses stat
 
 In der measurement equation werden zwei Arten von Messfehlern berücksichtigt: Zum einen wird für jedes Umfrageinstitut ein Zuverlässigkeitswert ($\phi_{i}$) berechnet. Es wird davon ausgegangen, dass manche Institute besser als andere bei der Vorhersage der Werte sind. Da die Zuverlässigkeit von Instituten, bei denen anfangs nur wenige Datenpunkte vorhanden sind, nicht präzise geschätzt werden kann, erhalten diese erstmal einen Wert, der Nahe dem Durchschnitt der Zuverlässigkeit aller Institute liegt ($\beta$) Je mehr Datenpunkte jedoch für ein Institut vorhanden sind, desto präziser kann dieser Wert geschätzt werden und desto stärker kann der Wert vom Mittelwert abweichen.
 
-Zum anderen wird davon ausgegangen, dass größere Stichproben zuverlässiger sind als kleinere Stichproben. Daher wird für jede Partei und Stichprobe auch ein Zuverlässigkeitswert ($\tau_{i,c,t}$) berechnet. Dieser ergibt sich nach der folgenden Formel ($\sqrt{\frac{(1-p)*p}{n}}$), wobei *p* das Umfrageerbenisse für die Partei und *n* die Stichprobengröße sind.
+Zum anderen wird davon ausgegangen, dass größere Stichproben zuverlässiger sind als kleinere Stichproben. Daher wird für jede Partei und Stichprobe auch ein Zuverlässigkeitswert ($\tau_{i,c,t}$) berechnet. Dieser ergibt sich nach der folgenden Formel ($\sqrt{\frac{(1-p)p}{n}}$), wobei *p* das Umfrageerbenisse für die Partei und *n* die Stichprobengröße sind.
 
 In Kontrast zu anderen Umfragemodellen basiert dieses Modell nicht nur auf der Normalverteilung sondern vor allem auf der [Dirichlet-Verteilung](https://de.wikipedia.org/wiki/Dirichlet-Verteilung). Die Dirichlet-Verteilung erlaubt es, die Daten so zu modellieren, dass alle Werte der Parteien immer auf 100% summieren. So ergeben sich immer valide Ergebnisse.
 
@@ -16,7 +16,7 @@ Die Gesamtformel sieht so aus:
 
 *C: categories T: Time I: Institute*
 
-*State Equation*: 
+*State Equation*:
 
 $$\theta_{c,t} \sim Normal(\theta_{c,t-1}, \epsilon_{c,t}); \ \ \theta_{c,0} \sim Normal(0,1); \ \ \epsilon_{c,t} \sim Normal(0,1); \ c > 1$$
 
