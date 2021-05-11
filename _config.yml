@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oliver Schlenkrich / Political Scientist"
+title                    : "Political Science & Bayesian Methods"
 title_separator          : "-"
 name                     : &name "Oliver Schlenkrich"
 description              : &description "personal description"
