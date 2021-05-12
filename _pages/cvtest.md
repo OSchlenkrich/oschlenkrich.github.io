@@ -9,11 +9,14 @@ redirect_from:
 
 <style>
 h1 {
-  font-size: 15px;
+  font-size: 20px;
+}
+li {
+   font-size: 18px;
 }
 p {
-   font-size: 15px;
-   margin-bottom: 0;
+   font-size: 16px;
+   margin: 0;
 }
 
 </style>
