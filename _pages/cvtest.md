@@ -109,19 +109,15 @@ Method Schools
 Language Skills
 ======
 * Mother Tongue: German
-
-* English (Listening C2, Reading C2, Spoken production B2, Spoken interaction B2, Writing C1)
-
-* French (Listening A1, Reading A1, Spoken production A1, Spoken interaction A1, Writing A1)
-
+* English (C2)
+* French (A1)
 * Arabic (Reading A1)
 
 
 Digital Skills
 ======
-* Statistical Software: R and RStudio / Python / Mplus / R shiny / IBM SPSS
-* Bayesian Statistical Software: Stan (Bayesian Statistical Modeling) / Jags (Bayesian Statistical Modeling)
-* Word Processing: Word / Excel / Power Point / R Markdown 
+* Statistical Software: R and RStudio, Python, Mplus, R shiny, IBM SPSS
+* Bayesian Statistical Software: Stan (Bayesian Statistical Modeling), Jags (Bayesian Statistical Modeling)
 
 
 Publications
