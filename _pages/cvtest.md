@@ -14,7 +14,7 @@ h1 {
 }
 ul li {
    font-size: 16px;
-   margin-bottom: 0px;
+   margin-bottom: 8px;
 }
 p {
    font-size: 16px;
@@ -40,13 +40,6 @@ Work experience
   Supervisor: Prof. Dr. Best
 
 
-* 01.10.2013 - 30.06.2021: Research Assistant
-
-  Chair of Comparative Politics and German Government, University of Wuerzburg
-
-  Supervisor: Prof. Dr. Lauth
-
-
 * 01.04.2018 - 30.06.2021: Research Assistant
 
   Project "Causes of Quality Types and Democracy Profiles" funded by the German Research Foundation (DFG)
@@ -56,6 +49,13 @@ Work experience
 
   Project "Democracy Matrix" funded by the German Research Foundation (DFG)
 
+
+* 01.10.2013 - 30.06.2021: Research Assistant
+
+  Chair of Comparative Politics and German Government, University of Wuerzburg
+
+  Supervisor: Prof. Dr. Lauth
+  
   
 Skills
 ======
