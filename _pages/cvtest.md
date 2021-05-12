@@ -12,7 +12,7 @@ h1 {
   margin-top: 20px;
   font-size: 20px;
 }
-li {
+ul li {
    font-size: 18px;
    margin-bottom: 0px;
 }
