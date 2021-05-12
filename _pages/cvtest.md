@@ -57,30 +57,52 @@ Work experience
   Supervisor: Prof. Dr. Lauth
   
 
+Key Research Areas
+======
+* Quality of Democracy 
+* Democratization 
+* Statehood 
+* Political Culture 
+* Political Participation 
+* Time-Series Cross-Sectional Analysis 
+* Multilevel Analysis 
+* Bayesian Analysis
+
+
 Method Schools
 ======
 * Bayesian Multilevel Modelling
+
   48th GESIS Spring Seminar, Cologne
+  
   25.03.2019 – 29.03.2019
   
 
 * Bayesian Structural Equation Modelling
+
   48th GESIS Spring Seminar, Cologne
+  
   18.03.2019 – 22.03.2019
   
   
 * Gentle Introduction to Machine Learning for the SocialSciences
+
   12th ECPR Summer School in Methods and Techniques, Budapest
+  
   07.08.2017 – 11.08.2017 
   
   
 * Time Series Analysis
+
   12th ECPR Summer School in Methods and Techniques, Budapest
+  
   31.07.2017 – 04.08.2017
   
   
 * Multilevel Analysis
+
   ECPR Winter School, Bamberg
+  
   13.02.2015 – 20.02.2015
 
 
