@@ -17,10 +17,10 @@ main:
     
   - title: "CV"
     url: /files/CV/CV_public.pdf
-   
-   - title: "cvtest"
-    url: /cvtest/
-       
+  
+  - title: "CVTest"
+    url: /cvtest/  
+    
   # - title: "Guide"
   #  url: /year-archive/
 
