@@ -33,14 +33,14 @@ Education
 
 Work experience
 ======
-*   01.05.2021 - 30.09.2021: Research Assistant
+*  01.05.2021 - 30.09.2021: Research Assistant
 
   Empirical Social Research, TU Kaiserslautern
 
   Supervisor: Prof. Dr. Best
 
 
-*   01.10.2013 - 30.06.2021: Research Assistant
+* 01.10.2013 - 30.06.2021: Research Assistant
 
   Chair of Comparative Politics and German Government, University of Wuerzburg
 
