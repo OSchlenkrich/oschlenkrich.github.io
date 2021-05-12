@@ -33,7 +33,7 @@ Education
 
 Work experience
 ======
-*  01.05.2021 - 30.09.2021: Research Assistant
+* 01.05.2021 - 30.09.2021: Research Assistant
 
   Empirical Social Research, TU Kaiserslautern
 
