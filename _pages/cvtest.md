@@ -33,26 +33,26 @@ Education
 
 Work experience
 ======
-* 01.05.2021 - 30.09.2021: Research Assistant
+*   01.05.2021 - 30.09.2021: Research Assistant
 
   Empirical Social Research, TU Kaiserslautern
 
   Supervisor: Prof. Dr. Best
 
 
-* 01.10.2013 - 30.06.2021: Research Assistant
+*   01.10.2013 - 30.06.2021: Research Assistant
 
   Chair of Comparative Politics and German Government, University of Wuerzburg
 
   Supervisor: Prof. Dr. Lauth
 
 
-* 01.04.2018 - 30.06.2021: Research Assistant
+*   01.04.2018 - 30.06.2021: Research Assistant
 
   Project "Causes of Quality Types and Democracy Profiles" funded by the German Research Foundation (DFG)
 
 
-* 01.04.2016 - 31.03.2018: Research Assistant
+*   01.04.2016 - 31.03.2018: Research Assistant
 
   Project "Democracy Matrix" funded by the German Research Foundation (DFG)
 
