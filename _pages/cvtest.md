@@ -123,25 +123,22 @@ Digital Skills
 Publications
 ======
 Peer-Reviewed Articles
-<ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed %}
   {% if post.venue contains 'peer-reviewed' %}
     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}</ul>
+  {% endif %} {% endfor %}</ul>
 
 Book Chapters
-<ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications reversed %}
   {% if post.venue contains 'bookchapter' %}
     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}</ul>
+  {% endif %} {% endfor %}</ul>
 
-Book Chapters
-<ul>{% for post in site.publications reversed %}
+Other Articles
+  <ul>{% for post in site.publications reversed %}
   {% if post.venue contains 'other' %}
     {% include archive-single.html %}
-  {% endif %}
-{% endfor %}</ul>
+  {% endif %} {% endfor %}</ul>
 
 
 Talks
