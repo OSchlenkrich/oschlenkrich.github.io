@@ -22,15 +22,16 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 01.10.2013 - 30.06.2021: Research Assistant
+Chair of Comparative Politics and German Government, University of Wuerzburg
+Supervisor: Prof. Dr. Lauth
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 01.04.2018 - 30.06.2021: Research Assistant
+Project "Causes of Quality Types and Democracy Profiles" funded by the German Research Foundation (DFG)
+
+* 01.04.2016 - 31.03.2018: Research Assistant
+Project "Democracy Matrix" funded by the German Research Foundation (DFG)
+
   
 Skills
 ======
