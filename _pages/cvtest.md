@@ -11,6 +11,11 @@ redirect_from:
 h1 {
   font-size: 15px;
 }
+p {
+   font-size: 15px;
+   margin-bottom: 0;
+}
+
 </style>
 
 {% include base_path %}
