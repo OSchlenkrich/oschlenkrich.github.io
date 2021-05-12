@@ -125,19 +125,19 @@ Publications
 Peer-Reviewed Articles
   <ul>{% for post in site.publications reversed %}
   {% if post.venue contains 'peer-reviewed' %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %} {% endfor %}</ul>
 
 Book Chapters
   <ul>{% for post in site.publications reversed %}
   {% if post.venue contains 'bookchapter' %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %} {% endfor %}</ul>
 
 Other Articles
   <ul>{% for post in site.publications reversed %}
   {% if post.venue contains 'other' %}
-    {% include archive-single.html %}
+    {% include archive-single-cv.html %}
   {% endif %} {% endfor %}</ul>
 
 
