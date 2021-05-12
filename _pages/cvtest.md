@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: archive
 title: "CV"
 permalink: /cvtest/
 author_profile: true
@@ -7,9 +7,10 @@ redirect_from:
   - /resume
 ---
 
+# Style CV
 <style>
-h1, h2, h3 {
-  text-align: center;
+h1 {
+  font-size: $type-size-4;
 }
 </style>
 
