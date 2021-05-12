@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# Style CV
 <style>
 h1 {
   font-size: $type-size-4;
