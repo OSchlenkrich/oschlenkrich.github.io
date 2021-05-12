@@ -14,7 +14,7 @@ h1 {
 }
 h3 {
   margin-top: 0px;
-  font-size: 20px;
+  font-size: 16px;
 }
 ul li {
    font-size: 16px;
