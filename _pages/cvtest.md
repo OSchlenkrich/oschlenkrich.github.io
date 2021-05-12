@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
 h1 {
-  font-size: $type-size-4;
+  font-size: 15px;
 }
 </style>
 
@@ -18,8 +18,7 @@ h1 {
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Comparative Political Science, University of Wuerzburg, 2021
 
 Work experience
 ======
