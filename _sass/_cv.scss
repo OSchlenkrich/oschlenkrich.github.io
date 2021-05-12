@@ -14,10 +14,6 @@
     @include prefix(0.5 of 12);
   }
 
-  h1 {
-    font-size: $type-size-6;
-  }
-
   a {
     text-decoration: underline;
 
@@ -29,6 +25,10 @@
       }
     }
   }
+}
+
+#education {
+  font-size: $type-size-6;
 }
 
 
