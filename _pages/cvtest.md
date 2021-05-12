@@ -27,11 +27,19 @@ p {
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
 * Ph.D in Comparative Political Science, University of Wuerzburg, 2021
+* Teacher Education for Secondary Education (Gymnasium) German/Social Studies/Philosophy (1. State Examination), 2013
+
 
 Work experience
 ======
+* 01.05.2021 - 30.09.2021: Research Assistant
+
+Empirical Social Research, TU Kaiserslautern
+
+Supervisor: Prof. Dr. Best
+
+
 * 01.10.2013 - 30.06.2021: Research Assistant
 
 Chair of Comparative Politics and German Government, University of Wuerzburg
