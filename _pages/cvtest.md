@@ -56,15 +56,51 @@ Work experience
 
   Supervisor: Prof. Dr. Lauth
   
-  
-Skills
+
+Method Schools
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bayesian Multilevel Modelling
+  48th GESIS Spring Seminar, Cologne
+  25.03.2019 – 29.03.2019
+  
+
+* Bayesian Structural Equation Modelling
+  48th GESIS Spring Seminar, Cologne
+  18.03.2019 – 22.03.2019
+  
+  
+* Gentle Introduction to Machine Learning for the SocialSciences
+  12th ECPR Summer School in Methods and Techniques, Budapest
+  07.08.2017 – 11.08.2017 
+  
+  
+* Time Series Analysis
+  12th ECPR Summer School in Methods and Techniques, Budapest
+  31.07.2017 – 04.08.2017
+  
+  
+* Multilevel Analysis
+  ECPR Winter School, Bamberg
+  13.02.2015 – 20.02.2015
+
+
+Language Skills
+======
+* Mother Tongue: German
+
+* English (Listening C2, Reading C2, Spoken production B2, Spoken interaction B2, Writing C1)
+
+* French (Listening A1, Reading A1, Spoken production A1, Spoken interaction A1, Writing A1)
+
+* Arabic (Reading A1)
+
+
+Digital Skills
+======
+* Statistical Software: R and RStudio / Python / Mplus / R shiny / IBM SPSS
+* Bayesian Statistical Software: Stan (Bayesian Statistical Modeling) / Jags (Bayesian Statistical Modeling)
+* Word Processing: Word / Excel / Power Point / R Markdown 
+
 
 Publications
 ======
