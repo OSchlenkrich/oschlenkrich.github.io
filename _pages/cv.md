@@ -114,7 +114,7 @@ Method Schools
 
 Language Skills
 ======
-* Mother Tongue: German
+* German: (Mother Tongue)
 * English (C2)
 * French (A1)
 * Arabic (Reading A1)
