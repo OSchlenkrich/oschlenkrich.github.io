@@ -24,7 +24,9 @@ p {
    font-size: 16px;
    margin: 0px;
 } 
-
+.archive__item-title {
+  font-weight:normal;
+}
 </style>
 
 {% include base_path %}
