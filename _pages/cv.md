@@ -31,6 +31,7 @@ p {
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Comparative Political Science, University of Wuerzburg, 2021
@@ -61,7 +62,7 @@ Work experience
   Chair of Comparative Politics and German Government, University of Wuerzburg
 
   Supervisor: Prof. Dr. Lauth
-  
+
 
 Key Research Areas
 ======
@@ -73,6 +74,34 @@ Key Research Areas
 * Time-Series Cross-Sectional Analysis 
 * Multilevel Analysis 
 * Bayesian Analysis
+
+
+Publications
+======
+Peer-Reviewed Articles
+  <ul>{% for post in site.publications reversed %}
+  {% if post.venue contains 'peer-reviewed' %}
+    {% include archive-single-cv.html %}
+  {% endif %} {% endfor %}</ul>
+
+Book Chapters
+  <ul>{% for post in site.publications reversed %}
+  {% if post.venue contains 'bookchapter' %}
+    {% include archive-single-cv.html %}
+  {% endif %} {% endfor %}</ul>
+
+Other Articles
+  <ul>{% for post in site.publications reversed %}
+  {% if post.venue contains 'other' %}
+    {% include archive-single-cv.html %}
+  {% endif %} {% endfor %}</ul>
+
+
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk_cv.html %}
+  {% endfor %}</ul>
 
 
 Method Schools
@@ -114,7 +143,7 @@ Method Schools
 
 Language Skills
 ======
-* German: (Mother Tongue)
+* German (Mother Tongue)
 * English (C2)
 * French (A1)
 * Arabic (Reading A1)
@@ -124,32 +153,4 @@ Digital Skills
 ======
 * Statistical Software: R and RStudio, Python, Mplus, R shiny, IBM SPSS
 * Bayesian Statistical Software: Stan (Bayesian Statistical Modeling), Jags (Bayesian Statistical Modeling)
-
-
-Publications
-======
-Peer-Reviewed Articles
-  <ul>{% for post in site.publications reversed %}
-  {% if post.venue contains 'peer-reviewed' %}
-    {% include archive-single-cv.html %}
-  {% endif %} {% endfor %}</ul>
-
-Book Chapters
-  <ul>{% for post in site.publications reversed %}
-  {% if post.venue contains 'bookchapter' %}
-    {% include archive-single-cv.html %}
-  {% endif %} {% endfor %}</ul>
-
-Other Articles
-  <ul>{% for post in site.publications reversed %}
-  {% if post.venue contains 'other' %}
-    {% include archive-single-cv.html %}
-  {% endif %} {% endfor %}</ul>
-
-
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk_cv.html %}
-  {% endfor %}</ul>
   
