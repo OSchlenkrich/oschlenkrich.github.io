@@ -150,6 +150,6 @@ Other Articles
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-talk_cv.html %}
   {% endfor %}</ul>
   
