@@ -1,5 +1,5 @@
 ---
-title: "Lauth, Hans-Joachim / Kauff, Oliver. 2012. Demokratiemessung: Der KID als aggregiertes Maß für die
+title: "Lauth, Hans-Joachim and Oliver Kauff. 2012. Demokratiemessung: Der KID als aggregiertes Maß für die
 komparative Forschung. Empirische Befunde der Regimeentwicklung von 1996 bis 2010. WAPS 2."
 collection: publications
 permalink: /publication/2012-01-01-Demokratiemessung Der KID als aggregiertes Maß für die komparative Forschung
@@ -7,7 +7,7 @@ excerpt: 'The Combined Index of Democracy (CID) measures the quality of regimes 
 date: 2012-01-01
 venue: 'other'
 paperurl: 'https://opus.bibliothek.uni-wuerzburg.de/frontdoor/index/index/docId/6174'
-citation: 'Lauth, Hans-Joachim / Kauff, Oliver. 2012. Demokratiemessung: Der KID als aggregiertes Maß für die
+citation: 'Lauth, Hans-Joachim and Oliver Kauff. 2012. Demokratiemessung: Der KID als aggregiertes Maß für die
 komparative Forschung. Empirische Befunde der Regimeentwicklung von 1996 bis 2010. WAPS 2.'
 ---
 
