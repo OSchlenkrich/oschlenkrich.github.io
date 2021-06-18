@@ -20,6 +20,14 @@ Peer-Reviewed Articles
 {% endfor %}
 
 
+Books and Monographs
+{% for post in site.publications reversed %}
+  {% if post.venue contains 'book' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
 Book Chapters
 {% for post in site.publications reversed %}
   {% if post.venue contains 'bookchapter' %}
