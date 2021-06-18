@@ -84,6 +84,13 @@ Peer-Reviewed Articles
     {% include archive-single-cv.html %}
   {% endif %} {% endfor %}</ul>
 
+Books and Monographs
+{% for post in site.publications reversed %}
+  {% if post.venue contains 'books' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 Book Chapters
   <ul>{% for post in site.publications reversed %}
   {% if post.venue contains 'bookchapter' %}
