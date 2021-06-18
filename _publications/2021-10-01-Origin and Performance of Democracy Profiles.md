@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-06-12-Origin and Performance of Democracy Profiles
 excerpt: ''
 date: 2021-06-12
-venue: 'book'
+venue: 'books'
 paperurl: 'https://www.springer.com/gp/book/9783658348793'
 citation: 'Schlenkrich, Oliver. 2021. Origin and Performance of Democracy Profiles. Series: Vergleichende Politikwissenschaft. Wiesbaden: Springer. Forthcoming.'
 ---

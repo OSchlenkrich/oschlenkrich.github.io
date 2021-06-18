@@ -22,7 +22,7 @@ Peer-Reviewed Articles
 
 Books and Monographs
 {% for post in site.publications reversed %}
-  {% if post.venue contains 'book' %}
+  {% if post.venue contains 'books' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
