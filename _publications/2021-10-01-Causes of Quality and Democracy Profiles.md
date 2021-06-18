@@ -15,8 +15,3 @@ Key Questions of the Follow-Up Project:
 2. What factors and combinations of factor are responsible for the fact that certain forms of deficient democracies (e.g. illiberal or delegative democracies) arise?
 
 3. How is it the case that established democracies have different democracy profiles (e.g. the USA and Great Britain follow a libertarian democracy profile, whereas the Scandinavian countries emphasize egalitarian components of democracy)?
-
-
-// [Download book here](https://www.springer.com/gp/book/9783658348793)
-
-//[Replication Data](https://github.com/OSchlenkrich/PerformanceDemocracies)
