@@ -79,29 +79,28 @@ Key Research Areas
 Publications
 ======
 Peer-Reviewed Articles
-  <ul>{% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% if post.venue contains 'peer-reviewed' %}
     {% include archive-single-cv.html %}
-  {% endif %} {% endfor %}</ul>
+  {% endif %} {% endfor %}
 
 Books and Monographs
 {% for post in site.publications reversed %}
   {% if post.venue contains 'books' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+    {% include archive-single-cv.html %}
+  {% endif %} {% endfor %}
 
 Book Chapters
-  <ul>{% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% if post.venue contains 'bookchapter' %}
     {% include archive-single-cv.html %}
-  {% endif %} {% endfor %}</ul>
+  {% endif %} {% endfor %}
 
 Other Articles
-  <ul>{% for post in site.publications reversed %}
+{% for post in site.publications reversed %}
   {% if post.venue contains 'other' %}
     {% include archive-single-cv.html %}
-  {% endif %} {% endfor %}</ul>
+  {% endif %} {% endfor %}
 
 
 Talks
