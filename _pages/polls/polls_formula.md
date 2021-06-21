@@ -43,3 +43,81 @@ $$phi_i \sim Normal(\beta, \pi)$$
 $$\beta \sim Normal(3,1)$$
 
 $$\pi \sim Normal(0,0.2)$$
+
+Dies ergibt den folgenden [Stan-code](https://mc-stan.org/):
+
+
+```
+data {
+  int<lower=0> N; // number of observations
+  int<lower=0> Ti; // number of time points
+  int<lower=0> C; // number of no. categories
+
+  int<lower=0> T[N]; // time Index
+  int<lower=0> id[N]; // polling institute index
+
+  matrix[N,C] y; // poll results
+  matrix[N,C] y_sd; // poll sd 
+}
+
+transformed data {
+  int max_id;
+  max_id = max(id);  // number of no.  polling institutes
+}
+
+parameters {
+  vector<lower=0>[C-1] theta_sd; // sd state equation
+  matrix[Ti, C-1] theta; // hidden state
+ 
+  vector[max_id] phi_raw; // random effets for precision
+  real phi_mu;
+  real<lower=0> phi_sd;
+
+  simplex[C] y_star[N]; // result measurement equation I 
+}
+
+transformed parameters{
+  matrix[Ti, C] mu;
+  vector[max_id] phi;
+  
+  phi = exp(phi_mu + phi_raw * phi_sd); // non-centered parametrization
+  
+  for (t in 1:Ti) {
+    mu[t] = to_row_vector(softmax(to_vector(append_col(0, theta[t])))); 
+  }
+}
+
+model {
+ // priors
+ theta_sd ~ normal(0, 1);
+ phi_raw ~ std_normal();
+ phi_sd ~ normal(0, 0.2);
+ phi_mu ~ normal(3, 1);
+
+ for (t in 1:Ti) {
+   if (t == 1) {
+     theta[1] ~ normal(0, 1);  
+   } else  {
+     theta[t] ~ normal(theta[t-1], theta_sd);
+   }
+ }
+  
+  // likelihood  
+  for (i in 1:N) {
+    y_star[i] ~ dirichlet(to_vector(mu[T[i]])*phi[id[i]]); 
+    y[i] ~ normal(y_star[i], y_sd[i]);
+  }
+}
+
+generated quantities {
+  matrix[N,C] y_rep;
+
+  for (i in 1:N) {
+    for (c in 1:C) {
+      y_rep[i,c] = normal_rng(y_star[i,c], y_sd[i,c]);
+    }
+  }
+}
+```
+
+
