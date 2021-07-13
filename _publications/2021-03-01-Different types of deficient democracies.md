@@ -14,4 +14,7 @@ Typologies are widely applied tools in democracy research. There are two promine
 
 [Download paper here](https://journals.sagepub.com/doi/abs/10.1177/0192512121995686)
 
+[Democracy Matrix](https://www.democracymatrix.com/) 
+
 [Replication Data](https://github.com/OSchlenkrich/DiminishedSubtypes_Cluster)
+
