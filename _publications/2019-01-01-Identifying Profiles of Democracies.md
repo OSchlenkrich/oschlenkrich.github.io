@@ -14,5 +14,7 @@ This study examines types of democracies that result from trade-offs within the 
 
 [Download paper here](https://www.cogitatiopress.com/politicsandgovernance/article/view/2244)
 
+[Democracy Matrix](https://www.democracymatrix.com/) 
+
 [Replication Data](https://github.com/OSchlenkrich/Replicate_DemocracyProfiles_2019)
 
