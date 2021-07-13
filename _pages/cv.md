@@ -66,14 +66,14 @@ Work experience
 
 Key Research Areas
 ======
-* Quality of Democracy 
-* Democratization 
+* Quality of Democracy & Democratization
+* Populism 
 * Statehood 
-* Political Culture 
-* Political Participation 
+* Political Culture
 * Time-Series Cross-Sectional Analysis 
 * Multilevel Analysis 
 * Bayesian Analysis
+* Cluster Analysis
 
 
 Publications
